@@ -4,7 +4,7 @@
     "description": "saurach cha portfolio.Having experance of css",
     "orientation": "portrait",
     "start_url": "/ratio",
-    "background_color": "#00F",
-    "theme_color": "#00F",
+    "background_color": "#0F0",
+    "theme_color": "#0F0",
     "display": "standalone"
 }
