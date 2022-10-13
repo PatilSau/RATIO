@@ -1,10 +1,10 @@
 {
-    "name":"Saurabh Dakle",
-    "short_name":"Saurabh",
-    "discription":"saurach cha portfolio.Having experance of css",
-    "orientation":"portrait",
-    "start_url":"/ratio",
-    "background_color":"#00F",
-    "theme_color":"#00F",
-    "display":"standalone"
+    "name": "Saurabh Dakle",
+    "short_name": "Saurabh",
+    "description": "saurach cha portfolio.Having experance of css",
+    "orientation": "portrait",
+    "start_url": "/ratio",
+    "background_color": "#00F",
+    "theme_color": "#00F",
+    "display": "standalone"
 }
